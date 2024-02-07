@@ -1,0 +1,24 @@
+# ninja log v5
+5	520	7280596621930095	CMakeFiles/Visual-FibHeap.dir/src/window.cpp.obj	e9db669cbb19265
+2	341	7288303536055372	CMakeFiles/Visual-FibHeap.dir/src/Fibheap.cpp.obj	9ff05acec1ceea91
+2	793	7288346109489668	CMakeFiles/Visual-FibHeap.dir/src/Renderer.cpp.obj	373db0c2b3c0e433
+13	1062	7288346963534551	CMakeFiles/Visual-FibHeap.dir/src/Context.cpp.obj	35610c43456d5018
+0	457	7280582115474537	build.ninja	ae0d146855fa7298
+3	1140	7288346964305415	CMakeFiles/Visual-FibHeap.dir/src/main.cpp.obj	f05fedea07e1393c
+9	1509	7288346967958010	CMakeFiles/Visual-FibHeap.dir/src/Controller.cpp.obj	55636eea0ff6ba65
+1509	1959	7288346972447761	Visual-FibHeap.exe	ce4e326f853829cc
+4	1300	7288318615401963	CMakeFiles/Visual-FibHeap.dir/src/Model.cpp.obj	76bf755a288aeb8d
+13	1016	7288347176709397	CMakeFiles/Visual-FibHeap.dir/src/Context.cpp.obj	35610c43456d5018
+3	1121	7288347177717096	CMakeFiles/Visual-FibHeap.dir/src/main.cpp.obj	f05fedea07e1393c
+8	1459	7288347181103767	CMakeFiles/Visual-FibHeap.dir/src/Controller.cpp.obj	55636eea0ff6ba65
+1459	1918	7288347185620237	Visual-FibHeap.exe	ce4e326f853829cc
+2	773	7288348055370605	CMakeFiles/Visual-FibHeap.dir/src/Renderer.cpp.obj	373db0c2b3c0e433
+773	1227	7288348059818659	Visual-FibHeap.exe	ce4e326f853829cc
+4	1261	7288350590554177	CMakeFiles/Visual-FibHeap.dir/src/Controller.cpp.obj	55636eea0ff6ba65
+1261	1722	7288350594981776	Visual-FibHeap.exe	ce4e326f853829cc
+3	1208	7288351112732940	CMakeFiles/Visual-FibHeap.dir/src/Controller.cpp.obj	55636eea0ff6ba65
+1208	1644	7288351117046512	Visual-FibHeap.exe	ce4e326f853829cc
+3	1269	7288351923053390	CMakeFiles/Visual-FibHeap.dir/src/Controller.cpp.obj	55636eea0ff6ba65
+1269	1725	7288351927489357	Visual-FibHeap.exe	ce4e326f853829cc
+3	1265	7288352193703741	CMakeFiles/Visual-FibHeap.dir/src/Controller.cpp.obj	55636eea0ff6ba65
+1266	1703	7288352198077228	Visual-FibHeap.exe	ce4e326f853829cc
